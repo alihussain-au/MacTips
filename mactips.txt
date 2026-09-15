@@ -9,26 +9,20 @@ Screenshot to File/View ........ Cmd + Shift + 4
 
 [WINDOWS & APPLICATIONS]
 
-Lock Screen .................... Ctrl + Cmd + Q
 Close Application .............. Cmd + Q
 Hide Current Application ....... Cmd + H
-Hide All Except Current ........ Cmd + Option + H
-Minimise Current Window ........ Cmd + M
-Show Desktop / Restore ......... Fn + F11
-Switch Applications ............ Cmd + Tab
-Switch Windows Same App ........ Cmd + ~
-Show All Windows ............... Ctrl + Up OR Trackpad 4-Finger Up
+All Windows/Mission Control .... Ctrl + Up OR Trackpad 4-Finger Up
 New Window ..................... Cmd + N
 Snap Window .................... Hold Option while dragging
 Full Screen .................... Ctrl + Cmd + F
+Switch Applications ............ Cmd + Tab
+Switch Windows Same App ........ Cmd + ~
 
-[DESKTOPS (SPACES)]
+Lock Screen .................... Ctrl + Cmd + Q
+Hide All Except Current ........ Cmd + Option + H
+Minimise Current Window ........ Cmd + M
+Show Desktop / Restore ......... Fn + F11
 
-Create New Desktop ............. Drag app to a new desktop
-Switch Desktop Left ............ Ctrl + Left
-Switch Desktop Right ........... Ctrl + Right
-Switch Desktops (Trackpad) ..... 4-Finger Swipe Left/Right
-See All Desktops ............... Ctrl + Up OR Trackpad 4-Finger Up
 
 [TRACKPAD & MOUSE]
 
@@ -50,13 +44,15 @@ Select To End Of Line .......... Cmd + Shift + Right
 [FILES & FINDER]
 
 Delete Character Right ......... Fn + Backspace
-Delete File .................... Cmd + Backspace
 Rename File/Folder ............. Return (Enter)
 Cut & Paste File ............... Cmd + C, then Cmd + Option + V
 Show Hidden Files .............. Cmd + Shift + . (toggle)
 Preview File ................... Space
 Zip File/Folder ................ Right Click → Compress
 Unzip File ..................... Double Click ZIP File
+
+Delete File .................... Cmd + Backspace
+
 
 [SEARCH & CLIPBOARD]
 
@@ -78,3 +74,11 @@ New Line In Prompt ............. Shift + Option + Enter
 Quit AMP ....................... /quit
 List Threads ................... amp threads
 Continue Thread ................ amp threads continue T-XXX
+
+[DESKTOPS (SPACES)]
+
+Create New Desktop ............. Drag app to a new desktop
+Switch Desktop Left ............ Ctrl + Left
+Switch Desktop Right ........... Ctrl + Right
+Switch Desktops (Trackpad) ..... 4-Finger Swipe Left/Right
+All Windows/Mission Control .... Ctrl + Up OR Trackpad 4-Finger Up
