@@ -20,6 +20,7 @@ Switch Windows Same App ........ Cmd + ~
 Show All Windows ............... Ctrl + Up OR Trackpad 4-Finger Up
 New Window ..................... Cmd + N
 Snap Window .................... Hold Option while dragging
+Full Screen .................... Ctrl + Cmd + F
 
 [DESKTOPS (SPACES)]
 
@@ -67,10 +68,6 @@ Clipboard History (Maccy) ...... Shift + Cmd + C
 Zoom In ........................ Cmd + +
 Zoom Out ....................... Cmd + -
 
-[SAFARI]
-
-Full Screen .................... Ctrl + Cmd + F
-
 [VSCODE]
 
 Multiline Cursor ............... Shift + Option + Mouse
@@ -80,4 +77,4 @@ Multiline Cursor ............... Shift + Option + Mouse
 New Line In Prompt ............. Shift + Option + Enter
 Quit AMP ....................... /quit
 List Threads ................... amp threads
-Continue Thread ................ amp threads continue T-01a05a35-2007-727b-9957-5d6748c795e9
+Continue Thread ................ amp threads continue T-XXX
