@@ -1,0 +1,83 @@
+========================================================
+MAC CHEAT SHEET
+========================================================
+
+[SCREENSHOTS]
+
+Screenshot to Clipboard ........ Ctrl + Cmd + Shift + 4 (Paste: Cmd + V)
+Screenshot to File/View ........ Cmd + Shift + 4
+
+[WINDOWS & APPLICATIONS]
+
+Lock Screen .................... Ctrl + Cmd + Q
+Close Application .............. Cmd + Q
+Hide Current Application ....... Cmd + H
+Hide All Except Current ........ Cmd + Option + H
+Minimise Current Window ........ Cmd + M
+Show Desktop / Restore ......... Fn + F11
+Switch Applications ............ Cmd + Tab
+Switch Windows Same App ........ Cmd + ~
+Show All Windows ............... Ctrl + Up OR Trackpad 4-Finger Up
+New Window ..................... Cmd + N
+Snap Window .................... Hold Option while dragging
+
+[DESKTOPS (SPACES)]
+
+Create New Desktop ............. Drag app to a new desktop
+Switch Desktop Left ............ Ctrl + Left
+Switch Desktop Right ........... Ctrl + Right
+Switch Desktops (Trackpad) ..... 4-Finger Swipe Left/Right
+See All Desktops ............... Ctrl + Up OR Trackpad 4-Finger Up
+
+[TRACKPAD & MOUSE]
+
+Left Click ..................... 1-Finger Tap
+Right Click .................... 2-Finger Tap
+Drag Applications .............. 3 Fingers
+Horizontal Scroll (Mouse) ...... Shift + Scroll
+
+[TEXT EDITING & CURSOR]
+
+Move Cursor By Word ............ Option + Left / Right
+Beginning Of Line .............. Cmd + Left
+End Of Line .................... Cmd + Right
+Delete Whole Word .............. Option + Delete
+Select Whole Word .............. Option + Shift + Left / Right
+Select To Beginning Of Line .... Cmd + Shift + Left
+Select To End Of Line .......... Cmd + Shift + Right
+
+[FILES & FINDER]
+
+Delete Character Right ......... Fn + Backspace
+Delete File .................... Cmd + Backspace
+Rename File/Folder ............. Return (Enter)
+Cut & Paste File ............... Cmd + C, then Cmd + Option + V
+Show Hidden Files .............. Cmd + Shift + . (toggle)
+Preview File ................... Space
+Zip File/Folder ................ Right Click → Compress
+Unzip File ..................... Double Click ZIP File
+
+[SEARCH & CLIPBOARD]
+
+Spotlight Search ............... Cmd + Space
+Clipboard History (Maccy) ...... Shift + Cmd + C
+
+[ZOOM]
+
+Zoom In ........................ Cmd + +
+Zoom Out ....................... Cmd + -
+
+[SAFARI]
+
+Full Screen .................... Ctrl + Cmd + F
+
+[VSCODE]
+
+Multiline Cursor ............... Shift + Option + Mouse
+
+[AMP]
+
+New Line In Prompt ............. Shift + Option + Enter
+Quit AMP ....................... /quit
+List Threads ................... amp threads
+Continue Thread ................ amp threads continue T-01a05a35-2007-727b-9957-5d6748c795e9
