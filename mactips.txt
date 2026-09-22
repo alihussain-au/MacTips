@@ -17,6 +17,7 @@ Snap Window .................... Hold Option while dragging
 Full Screen .................... Ctrl + Cmd + F
 Switch Applications ............ Cmd + Tab
 Switch Windows Same App ........ Cmd + ~
+Refresh page ................... Cmd + R
 
 Lock Screen .................... Ctrl + Cmd + Q
 Hide All Except Current ........ Cmd + Option + H
@@ -40,7 +41,7 @@ Delete Whole Word .............. Option + Delete
 Select Whole Word .............. Option + Shift + Left / Right
 Select To Beginning Of Line .... Cmd + Shift + Left
 Select To End Of Line .......... Cmd + Shift + Right
-Paste value only................ Cmd + Shift + V or Cmd + Shift + Option + V
+Paste value only ............... Cmd + Shift + V or Cmd + Shift + Option + V
 
 [FILES & FINDER]
 
