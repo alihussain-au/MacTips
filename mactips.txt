@@ -40,6 +40,7 @@ Delete Whole Word .............. Option + Delete
 Select Whole Word .............. Option + Shift + Left / Right
 Select To Beginning Of Line .... Cmd + Shift + Left
 Select To End Of Line .......... Cmd + Shift + Right
+Paste value only................ Cmd + Shift + V or Cmd + Shift + Option + V
 
 [FILES & FINDER]
 
