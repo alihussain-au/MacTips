@@ -17,7 +17,7 @@ Snap Window .................... Hold Option while dragging
 Full Screen .................... Ctrl + Cmd + F
 Switch Applications ............ Cmd + Tab
 Switch Windows Same App ........ Cmd + ~
-Refresh page ................... Cmd + R
+Refresh page ................... Cmd + R (add shift for no cache)
 
 Lock Screen .................... Ctrl + Cmd + Q
 Hide All Except Current ........ Cmd + Option + H
