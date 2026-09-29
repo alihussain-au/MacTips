@@ -66,6 +66,9 @@ Clipboard History (Maccy) ...... Shift + Cmd + C
 Zoom In ........................ Cmd + +
 Zoom Out ....................... Cmd + -
 
+[Termius]
+Switch tabs .................... Cmd + 1/2/3/4 (The number corresponds to the tab)
+
 [VSCODE]
 
 Multiline Cursor ............... Shift + Option + Mouse
