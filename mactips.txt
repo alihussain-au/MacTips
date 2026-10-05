@@ -66,7 +66,12 @@ Clipboard History (Maccy) ...... Shift + Cmd + C
 Zoom In ........................ Cmd + +
 Zoom Out ....................... Cmd + -
 
+[Chrome]
+
+Switch tabs .................... Ctrl + Tab
+
 [Termius]
+
 Switch tabs .................... Cmd + 1/2/3/4 (The number corresponds to the tab)
 
 [VSCODE]
