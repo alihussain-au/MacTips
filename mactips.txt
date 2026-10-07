@@ -44,6 +44,7 @@ Select Whole Word .............. Option + Shift + Left / Right
 Select To Beginning Of Line .... Cmd + Shift + Left
 Select To End Of Line .......... Cmd + Shift + Right
 Paste value only ............... Cmd + Shift + V or Cmd + Shift + Option + V
+Excel whole word delete ........ Option + Shift + <- (This will select whole word which can then be deleted)
 
 [FILES & FINDER]
 
