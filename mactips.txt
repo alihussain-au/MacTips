@@ -8,6 +8,7 @@ Screenshot to Clipboard ........ Ctrl + Cmd + Shift + 4 (Paste: Cmd + V)
 Screenshot to File/View ........ Cmd + Shift + 4
 Shottr area screenshot ......... Cmd + Shift + 2
 Shottr highlight ............... h
+Shottr copy screenshot ......... Cmd + Shift + c
 
 [WINDOWS & APPLICATIONS]
 
