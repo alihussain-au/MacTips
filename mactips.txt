@@ -96,6 +96,13 @@ Switch LLM model ............... /models
 Interrupt thinking ............. Esc
 Use a closed session ........... /sessions
 
+[herdr]
+Launch ......................... herdr
+Settings ....................... Ctrl + b, then press s
+Run herdr in background ........ Ctrl + b, then press q
+Agent integration .............. herdr integration install opencode
+
+
 [DESKTOPS (SPACES)]
 
 Create New Desktop ............. Drag app to a new desktop
