@@ -89,6 +89,13 @@ Quit AMP ....................... /quit
 List Threads ................... amp threads
 Continue Thread ................ amp threads continue T-XXX
 
+[MaasCode]
+
+Launch ......................... maascode --endpoint wsdc-npr
+Switch LLM model ............... /models
+Interrupt thinking ............. Esc
+Use a closed session ........... /sessions
+
 [DESKTOPS (SPACES)]
 
 Create New Desktop ............. Drag app to a new desktop
