@@ -97,6 +97,7 @@ Interrupt thinking ............. Esc
 Use a closed session ........... /sessions
 
 [herdr]
+
 Launch ......................... herdr
 Settings ....................... Ctrl + b, then press s
 Run herdr in background ........ Ctrl + b, then press q
