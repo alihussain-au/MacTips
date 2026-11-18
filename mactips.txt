@@ -93,6 +93,7 @@ Continue Thread ................ amp threads continue T-XXX
 
 Launch ......................... maascode --endpoint wsdc-npr
 Switch LLM model ............... /models
+Change model's strength ........ Ctrl + t (switch from low to medium to high)
 Interrupt thinking ............. Esc
 Use a closed session ........... /sessions
 
